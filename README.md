@@ -18,7 +18,7 @@ git clone https://github.com/Harly-1506/Real-Time-Emotion-Face-Recognition.git
 ```
 python run Camera.py
 ```
-##About model
+## About model
 - You can check this repo that I was build: [Facial-Expression-Recognition](https://github.com/Harly-1506/Facial-Expression-Recognition)
 ## Some results
 
